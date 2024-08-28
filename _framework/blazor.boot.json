@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BrowserTest.Browser",
   "resources": {
-    "hash": "sha256-BtLovzp0QY3dgJlYvhybffoKsxEhH8lzDwR/1R4fVe0=",
+    "hash": "sha256-kZjquuNTrbRIFnTOczjL1APCIR+O/PKFF77++tSpJPw=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.oindr6ndwk.js": "sha256-HSydFHr5UK2nh0kQg7Is20cJiNUpPjg7pAW+wlwOhqs="
     },
@@ -33,8 +33,8 @@
       "Avalonia.Themes.Fluent.wasm": "sha256-wkmYx52bxTKQu4U1igfTlruNhjTNmtYWJ/ofD6K2/mo=",
       "Avalonia.Vulkan.wasm": "sha256-EJCrbrtklmXaqOfGqagcJSK+KSdLx4MPwN7Uw6gQ4P8=",
       "Avalonia.wasm": "sha256-O8cqgi0qQ4/yvA4EztGr4nKil7ZqNV2uds/EVjzFlL0=",
-      "BrowserTest.Browser.wasm": "sha256-acCsDSl9Ty39lu4bNyzVRdUlw4ECMStKRqtxqTJGT6k=",
-      "BrowserTest.wasm": "sha256-vjm9DYTBEdR7EMGGGmj0VXhyPHtdK4Hun0ZiAu48N5Q=",
+      "BrowserTest.Browser.wasm": "sha256-fQJr3XcMl0HzUVmbRJn1xL+76W5QKQ7+4pvb5J8+TzA=",
+      "BrowserTest.wasm": "sha256-Qzs5OT/Re5DavOQ5kb3v0mw5FKqclq6LeEC5g1OEp+I=",
       "CommunityToolkit.Mvvm.wasm": "sha256-wQDZBV1vrYqaw3oZibnnP0qmFaR+iBuGvNB/+blNTj0=",
       "HarfBuzzSharp.wasm": "sha256-OlYeBHi8bpBdbdOZ6Pvd87lAGPMKmIJwOr1NilO0yFg=",
       "MicroCom.Runtime.wasm": "sha256-dI22KS20yc+ziyg4tSUpmSjG0ebPXDL5QTSZf+ehjwI=",
